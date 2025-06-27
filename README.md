@@ -1,0 +1,1 @@
+# gtm-template-tag-global-snippet
