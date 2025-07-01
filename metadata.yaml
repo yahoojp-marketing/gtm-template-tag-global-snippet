@@ -1,5 +1,5 @@
 homepage: "https://www.lycbiz.com/jp/service/yahoo-ads/"
 documentation: "https://ads-developers.yahoo.co.jp/ja/lytag/post/30590629.html"
 versions:
-  - sha: 0000000000000000000000000000000000000000
+  - sha: 5a4da6e03c87cb11c4a2585ee8b806c32b2b0f4e
     changeNotes: Initial release.
